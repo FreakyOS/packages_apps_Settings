@@ -181,4 +181,7 @@ public class Settings extends SettingsActivity {
     // Freaky Graveyard
     public static class FreakyGraveyardActivity extends SettingsActivity { /* empty */ }
 
+    // LiveDisplay
+    public static class LiveDisplaySettingsActivity extends SettingsActivity { /* empty */ }
+
 }
