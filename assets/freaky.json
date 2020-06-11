@@ -1,0 +1,43 @@
+{
+  "team_github": "http://github.com/freakyos",
+  "team_telegram": "https://t.me/freakyos",
+  "team": [
+    {
+      "name": "bunnyy",
+      "role": "Lead Developer aka 'Owner'",
+      "avatar": "https://avatars0.githubusercontent.com/u/36611570?s=400&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=8946392",
+      "telegram_link": "https://t.me/bun_nyy"
+    },
+    {
+      "name": "Niteshkumar",
+      "role": "Lead Developer aka 'Boss'",
+      "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=400&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=9418003",
+      "telegram_link": "https://t.me/Niteshkumar15"
+    }
+  ],
+  "maintainers": [
+    {
+      "device": "Xiaomi Redmi Note 6 Pro (tulip)",
+      "name": "Niteshkumar15",
+      "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=460&v=4",
+      "xda_link": "TBD",
+      "github_link": "https://github.com/niteshkumar2000"
+    },
+    {
+      "device": "Samsung A5 2016 (a5xelte)",
+      "name": "bunnyy",
+      "avatar": "https://avatars2.githubusercontent.com/u/36611570?s=460&v=4",
+      "xda_link": "TBD",
+      "github_link": "https://github.com/bunnyyTheFreak"
+    },
+    {
+      "device": "Samsung A7 2016 (a7xelte)",
+      "name": "bunnyy",
+      "avatar": "https://avatars2.githubusercontent.com/u/36611570?s=460&v=4",
+      "xda_link": "TBD",
+      "github_link": "https://github.com/bunnyyTheFreak"
+    }
+  ]
+}
