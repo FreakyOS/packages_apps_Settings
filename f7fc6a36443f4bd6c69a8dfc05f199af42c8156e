@@ -22,6 +22,30 @@
       "revId": "f7fc6a36443f4bd6c69a8dfc05f199af42c8156e",
       "serverId": "52305d8f-5d5a-4b15-9a96-2f03c7c153c6",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "18768147_84fd98db",
+        "filename": "assets/freaky.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-06-20T07:11:33Z",
+      "side": 1,
+      "message": "Looks good now!",
+      "parentUuid": "c5800878_70fd2dfc",
+      "range": {
+        "startLine": 43,
+        "startChar": 16,
+        "endLine": 43,
+        "endChar": 65
+      },
+      "revId": "f7fc6a36443f4bd6c69a8dfc05f199af42c8156e",
+      "serverId": "52305d8f-5d5a-4b15-9a96-2f03c7c153c6",
+      "unresolved": false
     }
   ]
 }
