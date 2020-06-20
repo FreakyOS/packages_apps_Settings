@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c5800878_70fd2dfc",
+        "filename": "assets/freaky.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-06-20T07:10:20Z",
+      "side": 1,
+      "message": "we can try Samsung A3/A5/A7 2016\\n(A310XX/A510XX/A710XX) instead of Samsung A3/A5/A7 2016 \\n(A310XX/A510XX/A710XX)\n\nI guess padding should be fixed by ths.",
+      "range": {
+        "startLine": 43,
+        "startChar": 16,
+        "endLine": 43,
+        "endChar": 65
+      },
+      "revId": "f7fc6a36443f4bd6c69a8dfc05f199af42c8156e",
+      "serverId": "52305d8f-5d5a-4b15-9a96-2f03c7c153c6",
+      "unresolved": true
+    }
+  ]
+}
