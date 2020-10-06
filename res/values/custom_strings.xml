@@ -221,4 +221,6 @@ Notifications may be delayed for these apps."</string>
         <item quantity="other">%d apps locked</item>
     </plurals>
 
+    <string name="theme_customization_primary_color_title">Primary color</string>
+
 </resources>

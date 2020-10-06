@@ -147,6 +147,10 @@
         android:title="@string/tap_to_wake"
         android:summary="@string/tap_to_wake_summary" />
 
+    <ListPreference
+            android:key="android.theme.customization.primary_color"
+            android:title="@string/theme_customization_primary_color_title"/>
+
     <com.android.settings.custom.preference.SystemSettingSwitchPreference
         android:key="high_touch_sensitivity_enable"
         android:title="@string/high_touch_sensitivity_title"
